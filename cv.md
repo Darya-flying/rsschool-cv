@@ -1,7 +1,7 @@
 # RESUME
 1. Darya Dubrouskaya
 1. Contacts
-    * **Phone:** +37529 344 67 00
+    * **Phone:** +37529 344 67 00 *(MTC)*
     * **Mail:** dybrovskaya-dasha@mail.ru
 1. Summary
     * QA engineer, junior QA automation engineer. 
